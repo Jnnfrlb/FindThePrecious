@@ -10,6 +10,7 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
   
   <body>
     <header>
+        <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x50"></a></div>
       
     </header>
     
@@ -19,8 +20,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
         <li><a href="#the_ring">The Ring</a></li>
         <li><a href="#Reward">Reward</a></li>
         <li><a href="#Hunters">Hunters</a></li>
-        <li><a href="Join.html>Join the Army</a></li>
-        <li><a href="Contact.html>Contact Us</a></li>
+        <li><a href="#Join">Join the Army</a></li>
+        <li><a href="#Contact">Contact Us</a></li>
       </ul>
     </nav>
     
@@ -57,7 +58,7 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
               </p>
               <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140"></a></div>
           </div>
-          <button>Contact Us</button>
+          <button><a href="#Contact">Contact Us</a></button>
           
           
       </section>
@@ -116,7 +117,7 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
       
       <section>
           <!-- section "Join Us" -->
-          <h1>Join the Mordor Army : we need you !</h1>
+          <h1 id="Join">Join the Mordor Army : we need you !</h1>
           <div>
               <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140"></a></div>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -128,7 +129,7 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
       
       <section>
           <!-- Section "Contact" -->
-          <h1>Contact Us</h1>
+          <h1 id="Contact">Contact Us</h1>
           <form method="post" action="traitement.php">
               <p>
                   <label for="Name">Name</label> : <input type="text" name="Name"/>
@@ -144,6 +145,23 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
       </section>
       
     <footer>
+        <div>
+            <p>About Us
+                <br />Fellows
+                <br />Join The Army
+            </p>
+        </div>
+        <div>
+            <p>FAQ
+                <br />Reward Conditions
+                <br />Legal Mentions
+            </p>
+        </div>
+        <div>
+            <p>Sauron4Ever.com
+                <br />Follow him also on twitter
+            </p>
+        </div>
     </footer>
   </body>
 </html>
