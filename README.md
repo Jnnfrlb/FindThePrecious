@@ -9,9 +9,7 @@
     <header>
         <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x50"></a></div>
       
-    </header>
-    
-    <nav>
+        <nav>
       <ul>
         <li><a href="#fellows">Fellows</a></li>
         <li><a href="#the_ring">The Ring</a></li>
@@ -21,6 +19,10 @@
         <li><a href="#Contact">Contact Us</a></li>
       </ul>
     </nav>
+    
+    </header>
+    
+
     
       <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/800x200"></a></div>
       
