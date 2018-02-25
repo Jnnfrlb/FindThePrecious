@@ -14,6 +14,14 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
     </header>
     
     <nav>
+      <ul>
+        <li><a href="Fellows.html>Fellows</a></li>
+        <li><a href="Ring.html>The Ring</a></li>
+        <li><a href="Reward.html>Reward</a></li>
+        <li><a href="Hunters.html>Hunters</a></li>
+        <li><a href="Join.html>Join the Army</a></li>
+        <li><a href="Contact.html>Contact Us</a></li>
+      </ul>
     </nav>
     
     <section>
