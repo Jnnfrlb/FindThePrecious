@@ -12,5 +12,15 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
     <header>
       
     </header>
+    
+    <nav>
+    </nav>
+    
+    <section>
+      <h1>Fellows wanted Dead</h1>
+    </section>
+    
+    <footer>
+    </footer>
   </body>
 </html>
