@@ -1,6 +1,3 @@
-# FindThePrecious2
-Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect your Master Sauron !
-
 <!DOCTYPE html>
 <html>
   <head>
