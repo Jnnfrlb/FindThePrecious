@@ -32,7 +32,7 @@
       
     <section>
         <!-- Section "Fellows" -->
-        <h1 id="fellows">Fellows wanted Dead</h1>
+        <h2 id="fellows">Fellows wanted Dead</h2>
         <div>
             <div><button>Most Wanted</button></div>
             <div><button>Most Dangerous</button></div>
@@ -40,17 +40,17 @@
         </div>
         <div>
             <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150" alt="Placeholder"></a></div>
-            <h2>The Wizard</h2>
+            <h3>The Wizard</h3>
             <p>Small description</p>
         </div>
         <div>
             <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150" alt="Placeholder"></a></div>
-            <h2>Hobbit #3</h2>
+            <h3>Hobbit #3</h3>
             <p>Small description</p>
         </div>
         <div>
             <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150" alt="Placeholder"></a></div>
-            <h2>Yummy Dwarf</h2>
+            <h3>Yummy Dwarf</h3>
             <p>Small description</p>
         </div>
     </section>
@@ -59,13 +59,15 @@
     
       <section>
           <!-- Section "Reward" -->
-          <h1 id="Reward">I have captured one of them, how to get my Reward ?</h1>
+          <h2 id="Reward">I have captured one of them, how to get my Reward ?</h2>
           <div>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </p>
               <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="Placeholder"></a></div>
           </div>
-          <a href="#Contact"><button>Contact Us</button></a>
+          <div>
+              <a href="#Contact">Contact Us</a>
+          </div>
           
           
       </section>
@@ -77,12 +79,12 @@
             <h1 id="Hunters">Best Hunters</h1>
             <div>
                   <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70" alt="Placeholder"></a></div>
-                  <h3>ElvesKiller22</h3>
+                  <h4>ElvesKiller22</h4>
                   <p>2 captures - <b>Profile</b></p>
               </div>
               <div>
                   <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70" alt="Placeholder"></a></div>
-                  <h3>Goblin45</h3>
+                  <h4>Goblin45</h4>
                   <p>1 capture - <b>Profile</b></p>
               </div>
         </section>
@@ -91,7 +93,7 @@
       
         <section>
             <!-- Section "The Ring" -->
-            <h1 id="the_ring">About the Ring</h1>
+            <h2 id="the_ring">About the Ring</h2>
             <div>
                 <p>What can our Master Sauron do with the Ring ?</p>
                 <table>
@@ -130,7 +132,7 @@
       
       <section>
           <!-- section "Join Us" -->
-          <h1 id="Join">Join the Mordor Army : we need you !</h1>
+          <h2 id="Join">Join the Mordor Army : we need you !</h2>
           <div>
               <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="Placeholder"></a></div>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -144,13 +146,13 @@
       
       <section>
           <!-- Section "Contact" -->
-          <h1 id="Contact">Contact Us</h1>
+          <h2 id="Contact">Contact Us</h2>
           <form method="post" action="traitement.php">
               <p>
-                  <label for="Name">Name</label> : <input type="text" name="Name"/>
+                  <label for="Name">Name</label> : <input type="text" name="Name" id="Name"/>
               </p>
               <p>
-                  <label for="e-mail_adress">E-mail adress</label> : <input type="text" name="e-mail_adress"/>
+                  <label for="e-mail_adress">E-mail adress</label> : <input type="text" name="e-mail_adress" id="e-mail_adress"/>
               </p>
               <p>
                   <label for="message">Write your message</label>
