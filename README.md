@@ -25,6 +25,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
       </ul>
     </nav>
     
+      <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/800x200"></a></div>
+      
     <section>
         <!-- Section "Fellows" -->
         <h1 id="fellows">Fellows wanted Dead</h1>
@@ -49,6 +51,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
             <p>Small description</p>
         </div>
     </section>
+      
+      <hr />
     
       <section>
           <!-- Section "Reward" -->
@@ -63,6 +67,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
           
       </section>
           
+      <hr />
+      
         <section>
               <!-- Section "Hunters" -->
             <h1 id="Hunters">Best Hunters</h1>
@@ -77,6 +83,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
                   <p>1 capture - <b>Profile</b></p>
               </div>
         </section>
+      
+        <hr />
       
         <section>
             <!-- Section "The Ring" -->
@@ -115,6 +123,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
             </div>
         </section>
       
+        <hr />
+      
       <section>
           <!-- section "Join Us" -->
           <h1 id="Join">Join the Mordor Army : we need you !</h1>
@@ -126,6 +136,8 @@ Dangerous Fellowship try to destroy the Ring : Orcs, Goblins, Balrogs, protect y
           <button>Mor info on SauronRulesThemAll.com</button>
       
       </section>
+      
+      <hr />
       
       <section>
           <!-- Section "Contact" -->
