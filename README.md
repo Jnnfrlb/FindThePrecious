@@ -7,7 +7,7 @@
   
   <body>
     <header>
-        <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x50"></a></div>
+        <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x50" alt="Placeholder"></a></div>
       
         <nav>
       <ul>
@@ -19,12 +19,16 @@
         <li><a href="#Contact">Contact Us</a></li>
       </ul>
     </nav>
-    
+        
     </header>
+        
     
-
-    
-      <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/800x200"></a></div>
+      <div>
+          <h1>Dangerous Fellowship try to destroy the Ring</h1>
+          <p>Orcs, Goblins, Balrogs : protect your Master Sauron</p>
+          <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/800x200" alt="Placeholder"></a></div>
+          
+    </div>
       
     <section>
         <!-- Section "Fellows" -->
@@ -35,17 +39,17 @@
             <div><button>Already captured</button></div>
         </div>
         <div>
-            <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150"></a></div>
+            <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150" alt="Placeholder"></a></div>
             <h2>The Wizard</h2>
             <p>Small description</p>
         </div>
         <div>
-            <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150"></a></div>
+            <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150" alt="Placeholder"></a></div>
             <h2>Hobbit #3</h2>
             <p>Small description</p>
         </div>
         <div>
-            <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150"></a></div>
+            <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/150x150" alt="Placeholder"></a></div>
             <h2>Yummy Dwarf</h2>
             <p>Small description</p>
         </div>
@@ -59,9 +63,9 @@
           <div>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </p>
-              <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140"></a></div>
+              <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="Placeholder"></a></div>
           </div>
-          <button><a href="#Contact">Contact Us</a></button>
+          <a href="#Contact"><button>Contact Us</button></a>
           
           
       </section>
@@ -72,12 +76,12 @@
               <!-- Section "Hunters" -->
             <h1 id="Hunters">Best Hunters</h1>
             <div>
-                  <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70"></a></div>
+                  <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70" alt="Placeholder"></a></div>
                   <h3>ElvesKiller22</h3>
                   <p>2 captures - <b>Profile</b></p>
               </div>
               <div>
-                  <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70"></a></div>
+                  <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70" alt="Placeholder"></a></div>
                   <h3>Goblin45</h3>
                   <p>1 capture - <b>Profile</b></p>
               </div>
@@ -128,7 +132,7 @@
           <!-- section "Join Us" -->
           <h1 id="Join">Join the Mordor Army : we need you !</h1>
           <div>
-              <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140"></a></div>
+              <div><a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="Placeholder"></a></div>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           
